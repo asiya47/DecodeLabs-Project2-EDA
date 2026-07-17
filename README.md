@@ -13,4 +13,4 @@ In this project, I:
 
 This project strengthened my understanding of Exploratory Data Analysis and helped me gain practical experience in deriving meaningful insights from real-world data.
 
-#DataAnalytics #Python #EDA #Pandas #NumPy #Matplotlib #Seaborn #JupyterNotebook #DecodeLabs #LearningJourney #OpenToWork
+
